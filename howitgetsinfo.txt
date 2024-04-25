@@ -1,0 +1,1 @@
+the game just fetches the info from this repository
